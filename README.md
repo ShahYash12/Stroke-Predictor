@@ -81,5 +81,4 @@ This project illustrates how machine learning and data automation can enable sma
 ## 🔗 Links
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
-- [GitHub Repo](#) *(insert your repo link here)*
-- [Demo Video (optional)](#)
+- [GitHub Repo](https://github.com/ShahYash12/Stroke-Predictor)
